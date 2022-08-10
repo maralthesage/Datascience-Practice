@@ -1,0 +1,6 @@
+# ignore .DS_store the env folder as well as all files ending with .env and .png
+
+.DS_store
+.env
+env
+.png
